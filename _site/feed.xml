@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HH Apps Studio</title>
+    <description>HH Apps Studio. Apps for happy</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Mar 2021 15:48:29 +0700</pubDate>
+    <lastBuildDate>Tue, 09 Mar 2021 15:48:29 +0700</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Les Ambassadeurs, the first Restaurant we Visited in Paris</title>
+        <description>&lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&lt;/p&gt;
+
+&lt;p&gt;Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier.&lt;/p&gt;
+
+&lt;p&gt;Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.&lt;/p&gt;
+
+&lt;p&gt;In 2017 Hache opened a smaller restaurant, L’Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Feb 2020 00:00:00 +0700</pubDate>
+        <link>/les-ambassadeurs/</link>
+        <guid isPermaLink="true">/les-ambassadeurs/</guid>
+        
+        <category>France</category>
+        
+        
+        <category>Lifestyle</category>
+        
+      </item>
+    
+      <item>
+        <title>Much more than a desert: A trip into the Sahara</title>
+        <description>&lt;p&gt;The Sahara is a desert located on the African continent. It is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic. Its area of 9,200,000 square kilometres (3,600,000 sq mi) is comparable to the area of China or the United States.[3] The name ‘Sahara’ is derived from a dialectal Arabic word for “desert”, ṣaḥra (صحرا /ˈsˤaħra/).&lt;/p&gt;
+
+&lt;p&gt;The desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains.&lt;/p&gt;
+
+&lt;p&gt;To the south, it is bounded by the Sahel, a belt of &lt;strong&gt;semi-arid tropical savanna&lt;/strong&gt; around the Niger River valley and the Sudan Region of Sub-Saharan Africa. The Sahara can be divided into several regions including: the western Sahara, the central Ahaggar Mountains, the Tibesti Mountains, the Aïr Mountains, the Ténéré desert, and the Libyan Desert.&lt;/p&gt;
+
+&lt;p&gt;For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000 year cycle caused by the precession of the Earth’s axis as it rotates around the Sun, which changes the location of the North African Monsoon. The area is next expected to become green in about 15,000 years (17,000 AD).&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0700</pubDate>
+        <link>/much-more-than-a-desert-trip-to-sahara/</link>
+        <guid isPermaLink="true">/much-more-than-a-desert-trip-to-sahara/</guid>
+        
+        
+        <category>Travel</category>
+        
+      </item>
+    
+  </channel>
+</rss>
