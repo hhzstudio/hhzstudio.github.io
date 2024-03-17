@@ -22,6 +22,7 @@ FEATURES:
 - Quotes by Category.
 - Optimize of offline using.
 
+[Get it on Google Play](https://play.google.com/store/apps/details?id=com.hhzstudio.dailyquotes)
 
 > A leader is one who knows the way, goes the way, and shows the way. - *John C. Maxwe*
 
