@@ -8,9 +8,6 @@ comments: false
 rating: 5
 ---
 
-[Get on Google Play](https://play.google.com/store/apps/details?id=com.hhzstudio.youspeakenglish)
-
-
 Master English speaking, strong pronunciation, and accent by daily practice.
 
 Navigating the sounds of English can be a challenge, but with the International Phonetic Alphabet (IPA) chart, learners have a powerful tool at their disposal. The IPA provides a standardized representation of every sound in the English language, making it an invaluable resource for pronunciation improvement.
